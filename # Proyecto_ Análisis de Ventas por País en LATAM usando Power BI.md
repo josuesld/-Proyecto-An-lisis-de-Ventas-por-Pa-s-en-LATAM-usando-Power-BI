@@ -1,3 +1,5 @@
+https://docs.google.com/document/d/1e4IMTuckIlhr0S785ZBRaUADccOAR8dLWw3_yKX0WWw/edit?usp=drive_link
+
 \# Proyecto: Análisis de Ventas por País en LATAM usando Power BI
 
 \#\# 🧩 Objetivo  
