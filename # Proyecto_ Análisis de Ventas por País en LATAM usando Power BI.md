@@ -1,3 +1,18 @@
+# Proyecto de Ventas en Power BI
+
+Este repositorio contiene el análisis completo de un proyecto de visualización de datos en Power BI, con datos procesados en Python.
+
+📄 Documentación completa del proceso (desde Python hasta Power BI):
+➡️ [Ver Documento en Google Drive](https://docs.google.com/document/d/1e4IMTuckIlhr0S785ZBRaUADccOAR8dLWw3_yKX0WWw/edit?usp=sharing)
+
+Incluye:
+- Preparación de datos con pandas
+- Exportación a Excel
+- Visualización en Power BI
+- Capturas del dashboard
+
+
+
 \# Proyecto: Análisis de Ventas por País en LATAM usando Power BI
 
 \#\# 🧩 Objetivo  
